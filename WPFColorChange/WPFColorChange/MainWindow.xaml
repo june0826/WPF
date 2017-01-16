@@ -1,0 +1,9 @@
+﻿<Window x:Class="WPFColorChange.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="hello WPF" HorizontalAlignment="Left" Margin="63,112,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.498,0.471" Height="181" Width="405" FontSize="72" FontFamily="MV Boli"/>
+
+    </Grid>
+</Window>
